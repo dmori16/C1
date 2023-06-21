@@ -1,2 +1,2 @@
-# C1
-Primera clase: prueba
+# Carpeta de Python
+
